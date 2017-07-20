@@ -46,13 +46,11 @@ Default DelEthereum data folder: ~/.delethereum
 ## deMist Wallet
 https://github.com/Delethereum/deMist
 
-Download & install Mist or Ethereum Wallet from https://github.com/ethereum/mist/releases.
-
 Start DelEthereum peer on localhost
 ```
-$ deth
+$ ./deth
 ```
-Start wallet on MacOS / Linux
+Download & install Mist or Ethereum Wallet from https://github.com/ethereum/mist/releases.
 ```
 $ wget https://raw.githubusercontent.com/Delethereum/Guide/master/deth
 $ chmod +x demist
